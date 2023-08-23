@@ -12,6 +12,7 @@ function Home(){
     return (
         <><div>Home</div>
         <p>hola mundo</p>
+        <p>hola mundo</p>
         <button onclick={addItem}></button>
         </>
     )
